@@ -9,7 +9,7 @@ print('Hello, World! \n');
 
 // 2
 
-print('Doniyorbek Anorboyev \n');
+print('Axmad Xurshetov \n');
 
 // 3
 
@@ -18,7 +18,7 @@ print('Let’s start coding!\n');
 
 // 4
 
-print('1 Amir Temur Avenue \nTashkent, Uzbekistan \n100000 \n');
+print('1 Movvarounnahr \nTashkent, Uzbekistan \n100000 \n');
 
 // 5
 
@@ -26,7 +26,7 @@ print('The current year is 2025. \n');
 
 // 6
 
-print('Welcome, students of NewUU University in Tashkent! \n');
+print('Welcome here, dear guests of New Uzbeksitan University \n');
 
 
 /* Variables */
